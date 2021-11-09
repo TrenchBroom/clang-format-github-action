@@ -1,6 +1,6 @@
-FROM silkeh/clang:10
+FROM silkeh/clang:13
 
-LABEL maintainer="RafikFarhad<rafikfarhad@gmail.com>"
+LABEL maintainer="Kristian Duske<kristian.duske@gmail.com>"
 
 COPY entrypoint.sh /entrypoint.sh
 
